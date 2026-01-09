@@ -5,12 +5,12 @@
   },
   "plugins": [
     {
-      "name": "serena-lsp",
-      "source": "./plugins/serena-lsp"
+      "name": "serena-mcp-no-memories",
+      "source": "./plugins/serena-mcp-no-memories"
     },
     {
-      "name": "my-commands",
-      "source": "./plugins/my-commands"
+      "name": "git-commit",
+      "source": "./plugins/git-commit"
     }
   ]
 }

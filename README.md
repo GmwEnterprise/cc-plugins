@@ -6,5 +6,5 @@ https://code.claude.com/docs/zh-CN/plugins
 
 ## 插件列表
 
-- my-commands：常用斜杠命令
-- serena-lsp：启用 serena mcp，仅使用 LSP 工具
+- git-commit：用于提交代码的 skill
+- serena-mcp-no-memories：启用无记忆功能的 serena MCP，需结合 `./.serena/project.yml` 使用

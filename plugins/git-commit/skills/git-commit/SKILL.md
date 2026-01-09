@@ -1,8 +1,8 @@
 ---
-description: 提交代码
+name: git-commit-helper
+description: 提交代码到当前 git 分支并生成规范的提交消息。当用户输入 "commit" 时使用
+allowed-tools: Read, Bash
 ---
-
-# 提交代码命令
 
 ## 提交步骤
 
