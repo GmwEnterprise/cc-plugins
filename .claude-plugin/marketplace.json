@@ -5,12 +5,8 @@
   },
   "plugins": [
     {
-      "name": "serena-mcp-no-memories",
-      "source": "./plugins/serena-mcp-no-memories"
-    },
-    {
-      "name": "git-commit-helper",
-      "source": "./plugins/git-commit-helper"
+      "name": "tool-skills",
+      "source": "./plugins/tool-skills"
     }
   ]
 }
