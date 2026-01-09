@@ -9,8 +9,8 @@
       "source": "./plugins/serena-mcp-no-memories"
     },
     {
-      "name": "git-commit",
-      "source": "./plugins/git-commit"
+      "name": "git-commit-helper",
+      "source": "./plugins/git-commit-helper"
     }
   ]
 }
