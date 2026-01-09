@@ -1,0 +1,16 @@
+{
+  "name": "cc-plugins",
+  "owner": {
+    "name": "MRAG"
+  },
+  "plugins": [
+    {
+      "name": "serena-lsp",
+      "source": "./plugins/serena-lsp"
+    },
+    {
+      "name": "my-commands",
+      "source": "./plugins/my-commands"
+    }
+  ]
+}
